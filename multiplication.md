@@ -4,3 +4,4 @@ First you need to take your first integer and then multiply it by the number of 
 # Example 
 
 6x6=36
+
